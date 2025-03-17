@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+joblib
+cv2
+numpy
+streamlit_drawable_canvas
