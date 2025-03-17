@@ -1,6 +1,5 @@
-streamlit
-matplotlib
-joblib
-cv2
-numpy
-streamlit_drawable_canvas
+joblib==1.4.2
+numpy==2.2.3
+scikit-learn==1.6.1
+streamlit==1.43.2
+streamlit-drawable-canvas==0.9.3
